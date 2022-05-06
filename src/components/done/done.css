@@ -1,0 +1,12 @@
+.done-container {
+  background-color: rgb(88, 144, 168);
+  height: auto;
+  width: 350px;
+  color: white;
+}
+
+.done-title {
+  padding: 5px 5px 5px 15px;
+  border-bottom: white;
+  border-bottom: solid;
+}
